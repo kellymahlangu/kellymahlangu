@@ -23,7 +23,7 @@ Welcome to my coding journey! I'm a passionate learner diving into the world of 
 
 ## 🚀 Project Showcase
 
-### 1. **Personal Portfolio Website** | [Live Demo]([kellymahla](https://www.kellymahlangu.co.za/)) | [Code](#)
+### 1. **Personal Portfolio Website** | [Live Demo](https://www.kellymahlangu.co.za/) | [Code](#)
    - Built with: HTML, CSS, JavaScript
    - Features: Responsive design, dark/light theme toggle
 
