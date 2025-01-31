@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kelly Mahlangu | Web Developer
+# 👋 Hi, I'm Kelly Mahlangu | Fullstack Developer
 
 🚧 **Learning in Progress** 🚧  
 Welcome to my coding journey! I'm a passionate learner diving into the world of web development. This repository showcases my projects, experiments, and progress as I grow my skills. Feedback and collaboration are always welcome!
@@ -23,7 +23,7 @@ Welcome to my coding journey! I'm a passionate learner diving into the world of 
 
 ## 🚀 Project Showcase
 
-### 1. **Personal Portfolio Website** | [Live Demo](#) | [Code](#)
+### 1. **Personal Portfolio Website** | [Live Demo]([kellymahla](https://www.kellymahlangu.co.za/)) | [Code](#)
    - Built with: HTML, CSS, JavaScript
    - Features: Responsive design, dark/light theme toggle
 
