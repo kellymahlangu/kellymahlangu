@@ -1,64 +1,37 @@
 # 👋 Hi, I'm Kelly Mahlangu | Fullstack Developer
 
-🚧 **Learning in Progress** 🚧  
-Welcome to my coding journey! I'm a passionate learner diving into the world of web development. This repository showcases my projects, experiments, and progress as I grow my skills. Feedback and collaboration are always welcome!
+Welcome to my personal portfolio! I'm an indie developer passionate about building scalable SaaS products and open-source tools that empower developers and businesses.
 
----
+## 🚀 About Me
+- Part-time Developer building SaaS products.
+- Experienced with **Next.js**.
+- Actively growing and engaging my X (Twitter) audience.
+- Open-source advocate, currently building **WorkKit.io**.
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technologies & Tools
+- **Frontend**: React, Next.js, TailwindCSS
+- **Backend**: Node.js, tRPC, Prisma
+- **Database**: PostgreSQL
 
-### **Currently Learning**
-- **Frontend**: HTML, CSS, JavaScript, React (intermediate)
-- **Backend**: Node.js (basics), Express (basics)
-- **Tools**: Git, VS Code, Figma (for wireframing)
-- **Other**: Responsive Design, Accessibility Basics
+## 🌟 Featured Projects
 
-### **Exploring Next**
-- TypeScript
-- Supabase
-- APIs & RESTful Services
-- UI/UX Fundamentals
+### [WorkKit.io](https://github.com/WorkKitIO/workkit.io)
+> **The all-in-one job management tool for freelance developers.**
+- Open-source and designed to integrate seamlessly with existing IDEs.
+- Will support **Cal.com** for scheduling and **Prisma** for database management.
+- Built with modular plugin support for extending functionality.
 
----
 
-## 🚀 Project Showcase
+## 📢 Stay Updated
+I share updates on my projects and indie hacking journey on **X (Twitter)**. Follow me to stay in the loop:
 
-### 1. **Personal Portfolio Website** | [Live Demo](https://www.kellymahlangu.co.za/) | [Code](https://github.com/kellymahlangu/portfolio-manager)
-   - Built with: HTML, CSS, JavaScript
-   - Features: Responsive design, dark/light theme toggle
+🐦 [@KellyMahlanguSA](https://x.com/KellyMahlanguSA)
 
-*(More projects coming soon!)*
+## 🤝 Work With Me
+I'm open to collaborating on exciting projects, consulting, and early-stage startup opportunities.
+- 📧 [Email](mailto:contact@kellymahlangu.co.za)
+- 🌐 [Portfolio](https://kellymahlangu.co.za)
 
----
+Let's build something awesome together! 🚀
 
-## 📚 Learning Goals for 2023/2024
-- [ ] Master JavaScript fundamentals
-- [ ] Build a full-stack MERN application
-- [ ] Learn testing with Jest/Cypress
-- [ ] Contribute to open-source projects
-- [ ] Improve problem-solving on Codewars/LeetCode
 
----
-
-## 🤝 Let's Connect!
-I'm eager to learn from the community and collaborate on small projects. Reach out if:
-- You have advice/resources for beginners
-- You want to pair program
-- You spot issues in my code (kind feedback appreciated!)
-
-**Links**:
-- [GitHub](https://github.com/kellymahlangu)
-- [LinkedIn](https://linkedin.com/in/kellymahlangu)
-- ✉️ Email: contact@kellymahlangu.co.za
-
----
-
-## 🎓 Acknowledgments
-- The Odin Project & freeCodeCamp for structured learning
-- MDN Web Docs for endless reference
-- Amazing devs on Twitter/DEV.to for inspiration
-
----
-
-> *"The expert in anything was once a beginner."* – Helen Hayes  
-> *Keep coding, keep growing! 🌱*
